@@ -28,9 +28,9 @@
 
 ## 🌐 Contact Me On
 
-- **Website:** [Baskar_M](https://Baskar_M.netlify.app/)
-- **LinkedIn:** [Baskar_M](https://www.linkedin.com/in/Baskar_M-s-95813623a/)
-- **Email:** <a href="mailto:Baskar_Ms12704@gmail.com">Baskar_Ms12704@gmail.com</a>
+- **Website:** [Dinesh_S](https://dinesh.televein.in/)
+- **LinkedIn:** [Dinesh_S](https://www.linkedin.com/in/dinesh-s-58a6b3263/)
+- **Email:** <a href="mailto:dineshbabu1029@gmail.com">dineshbabu1029@gmail.com</a>
 
 <!--
 
